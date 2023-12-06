@@ -14,7 +14,7 @@
   @section('title', 'Welkom op de website')
 
   @section('content')
-  <p>Welkom op onze website! Hier is wat voorbeeldtekst.</p>
+  
   @endsection
 </body>
 
